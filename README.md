@@ -22,3 +22,16 @@ un informe en **Markdown** listo para pegar en un ticket del SOC o en un informe
 ```bash
 sudo apt update
 sudo apt install nmap
+
+
+pega esto:
+
+```md
+### Uso rápido
+
+Clona el repositorio y entra en la carpeta:
+
+```bash
+git clone https://github.com/Nachomf112/nmap-auto-reporter.git
+cd nmap-auto-reporter
+
