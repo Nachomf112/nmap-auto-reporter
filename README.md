@@ -21,3 +21,9 @@ Herramienta en línea de comandos para lanzar escaneos Nmap y generar un informe
 ```bash
 sudo apt update
 sudo apt install nmap
+
+### Ejemplo de salida
+
+Puedes ver un ejemplo real de informe generado en Markdown aquí:
+
+- [Ejemplo de informe Nmap contra menarguez-ia.com](reports/ejemplo_scan_menarguez-ia.md)
