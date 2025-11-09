@@ -20,18 +20,13 @@ un informe en **Markdown** listo para pegar en un ticket del SOC o en un informe
 - Nmap instalado:
 
 ```bash
-sudo apt update
-sudo apt install nmap
+### Requisitos
 
-
-pega esto:
-
-```md
-### Uso rápido
-
-Clona el repositorio y entra en la carpeta:
+- Linux (probado en Kali).
+- Python 3.10+.
+- Nmap instalado:
 
 ```bash
-git clone https://github.com/Nachomf112/nmap-auto-reporter.git
-cd nmap-auto-reporter
+sudo apt update
+sudo apt install nmap
 
